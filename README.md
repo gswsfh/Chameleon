@@ -1,4 +1,4 @@
-### Codes for paper "Chameleon: Malicious Traffic Detection Based on Dynamic Baselines"
+### Codes for paper "Chameleon: Zero-Prior Malicious Traffic Detection Based on Dynamic Baselines"
 
 #### Environment Installation
 ```
